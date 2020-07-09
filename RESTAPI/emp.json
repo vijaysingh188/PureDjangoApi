@@ -1,0 +1,42 @@
+[
+{
+    "model": "RESTAPP.employee",
+    "pk": 2,
+    "fields": {
+        "eno": 200,
+        "ename": "vishu",
+        "esal": 20000.0,
+        "eadd": "Hyderbad"
+    }
+},
+{
+    "model": "RESTAPP.employee",
+    "pk": 3,
+    "fields": {
+        "eno": 300,
+        "ename": "Inder",
+        "esal": 30000.0,
+        "eadd": "Chennai"
+    }
+},
+{
+    "model": "RESTAPP.employee",
+    "pk": 4,
+    "fields": {
+        "eno": 400,
+        "ename": "pal",
+        "esal": 15000.0,
+        "eadd": "Bangalore"
+    }
+},
+{
+    "model": "RESTAPP.employee",
+    "pk": 10,
+    "fields": {
+        "eno": 800,
+        "ename": "akansha",
+        "esal": 5008.0,
+        "eadd": "goa"
+    }
+}
+]
